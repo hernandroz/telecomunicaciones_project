@@ -72,3 +72,11 @@ Mediante un dashboard interactivo creado en Power BI se pudo explorar de manera 
 ![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/dashboard/telecom_dashboard_a.png)
 
 Se puede acceder al archivo del dashboard interactivo [aquí](https://github.com/hernandroz/telecomunicaciones_project/blob/main/dashboard/telecom_dashboard_a.pbix).
+
+## Contribuciones
+
+Siéntase libre de contribuir con mejoras, correcciones o sugerencias. Si encuentra algún problema, por favor, abra un "Issue" en este repositorio o intente contactarme.
+
+## Licencia
+
+Proyecto desarrollado por Hernán Hernández Rodríguez - Data Scientist
