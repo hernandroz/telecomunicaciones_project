@@ -24,28 +24,28 @@ territoriales de dicho país.
 
 Con los datos disponibles, se pudo identificar a las provincias que tienen más hogares con acceso a internet:
 
-![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/top10pr.png)
+![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/top10pr.png?raw=true)
 
 Además, se pudo observar que existe un enorme sesgo respecto a la velocidad de internet de 5 mbps:
 
-![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/histog_conec_5mbps.png)
+![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/histog_conec_5mbps.png?raw=true)
 
 Por otra parte, se identificó a los partidos con mayor cantidad de conexiones 4G:
 
-![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/top10part_con4g.png)
+![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/top10part_con4g.png?raw=true)
  
  Algo importante a remarcar es que, usando las coordenadas de las ubicaciones con acceso a internet, pudimos establecer
  un diagramama de dispersión en el que es notorio la semejanza con el territorio geográfico de Argentina, y que además permite ver
  en qué zonas existe un mayor acceso a internet para la población, y en qué zonas existe uno menor:
 
- ![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/longitudvslatitud_hue.png)
+ ![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/longitudvslatitud_hue.png?raw=true)
 
  (La variable 'link' se refiere a un código geográfico proporcionado por el Instituto Nacional de Estadística y Censos -INDEC- de Argentina)
 
 Para terminar, surgió la pregunta: ¿Cuáles son las localidades que poseen mayor velocidad de internet (100 mbps)? Y esto fue respondido mediante el
 siguiente gráfico de barras:
 
-![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/top10_local100mbps.png)
+![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/imagenes_readme/top10_local100mbps.png?raw=true)
 
 Todo esto fue lo más importante a remarcar, pero para más detalles puede revisarse el notebook completo del EDA [aquí](https://github.com/hernandroz/telecomunicaciones_project/blob/main/internet_eda.ipynb).
 
@@ -69,7 +69,7 @@ Todo esto fue lo más importante a remarcar, pero para más detalles puede revis
 
 Mediante un dashboard interactivo creado en Power BI se pudo explorar de manera gráfica diversas métricas y observar los objetivos planteados para cada uno de nuestros KPIs:
 
-![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/dashboard/telecom_dashboard_a.png)
+![](https://github.com/hernandroz/telecomunicaciones_project/blob/main/dashboard/telecom_dashboard_a.png?raw=true)
 
 Se puede acceder al archivo del dashboard interactivo [aquí](https://github.com/hernandroz/telecomunicaciones_project/blob/main/dashboard/telecom_dashboard_a.pbix).
 
